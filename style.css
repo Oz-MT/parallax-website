@@ -134,6 +134,16 @@ body {
   background-image: url(./img/bg4.jpg);
 }
 
+/* choose your future */
+
+.bg-1 {
+  height: 100vh;
+}
+
+.bg-1::before {
+  background-image: url(./img/bg1.jpg);
+}
+
 /* responsive */
 
 @media (max-width: 1200px) {
