@@ -134,6 +134,8 @@ body {
   background-image: url(./img/bg4.jpg);
 }
 
+/* responsive */
+
 @media (max-width: 1200px) {
   .img h1 {
     font-size: 3.1rem;
